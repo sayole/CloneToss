@@ -1,16 +1,5 @@
 # clone_toss
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/43126867/163980980-6ecde77c-5e61-4dab-abe8-c3e4e7ffa5c3.png)
+![image](https://user-images.githubusercontent.com/43126867/163980996-1211cb8d-f6cf-4a4d-bf55-6ac7b9f05bef.png)
+![image](https://user-images.githubusercontent.com/43126867/163981010-901c36cd-e8f9-4b52-8c25-f45ec5033fde.png)
